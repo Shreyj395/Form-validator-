@@ -1,5 +1,5 @@
 ![Screenshot 2025-07-06 134043](https://github.com/user-attachments/assets/60f0fae6-521b-4f4a-8187-68f8461190b1)
-![Screenshot 2025-07-06 134043](https://github.com/user-attachments/assets/5e2b4bb3-031c-4cd1-8962-a3d151cad3d8)
+
 ✨ Form Validator - HTML | CSS | JavaScript
 
 This project is a simple yet effective Form Validator built using HTML, CSS, and vanilla JavaScript. The primary goal of this project is to demonstrate real-time form validation techniques on the client side, ensuring users provide correct and complete information before submitting a form.
